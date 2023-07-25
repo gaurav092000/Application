@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "WebAppli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temp_Dataa", "Temp_Dataa\Temp_Dataa.csproj", "{0E901906-DE3A-474D-85BF-BECDA5666BD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionLink", "ActionLink\ActionLink.csproj", "{ACF2E951-5EC4-4A44-A263-3C21C965F6DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0E901906-DE3A-474D-85BF-BECDA5666BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E901906-DE3A-474D-85BF-BECDA5666BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E901906-DE3A-474D-85BF-BECDA5666BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF2E951-5EC4-4A44-A263-3C21C965F6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF2E951-5EC4-4A44-A263-3C21C965F6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF2E951-5EC4-4A44-A263-3C21C965F6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF2E951-5EC4-4A44-A263-3C21C965F6DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
