@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temp_Dataa", "Temp_Dataa\Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionLink", "ActionLink\ActionLink.csproj", "{ACF2E951-5EC4-4A44-A263-3C21C965F6DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper_Method", "Helper_Method\Helper_Method.csproj", "{0DEDC75D-F565-42A8-B7D2-E3505F44102B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper_Method1", "Helper_Method1\Helper_Method1.csproj", "{B08FB965-3C01-4E73-A2CF-F98235CD01FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{ACF2E951-5EC4-4A44-A263-3C21C965F6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACF2E951-5EC4-4A44-A263-3C21C965F6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACF2E951-5EC4-4A44-A263-3C21C965F6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DEDC75D-F565-42A8-B7D2-E3505F44102B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEDC75D-F565-42A8-B7D2-E3505F44102B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEDC75D-F565-42A8-B7D2-E3505F44102B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEDC75D-F565-42A8-B7D2-E3505F44102B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08FB965-3C01-4E73-A2CF-F98235CD01FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08FB965-3C01-4E73-A2CF-F98235CD01FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08FB965-3C01-4E73-A2CF-F98235CD01FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08FB965-3C01-4E73-A2CF-F98235CD01FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

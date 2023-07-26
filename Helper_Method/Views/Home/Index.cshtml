@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@Html.TextBox("Fullname");
+<br />
+<br />
+
+@Html.TextBox("Fullname", "Gaurav Kawde", new { @class = "form-control" });
+<br />
+<br />
+@Html.TextBox("Fullname", "Gaurav ", new {  @class = "form-control",@readonly=true });
